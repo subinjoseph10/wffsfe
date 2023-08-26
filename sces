@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang=en">
+  <head>
+    <h1><span style="color:red;">Website</h1></span>
+      <h2><span style="color:blue;font-style:italic">Website</h2></span>
+    <title>
+      My website
+    </title>
+  <head>
+  <body>
+    <span style="color:red;">This is my website</span>
+    <a href="https://www.irctc.co.in/nget/train-search">Railway website</a>
+    </body>
+ </html>
